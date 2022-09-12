@@ -1,0 +1,16 @@
+C:\Users\Админ\Desktop\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe.config
+C:\Users\Админ\Desktop\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\Админ\Desktop\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\Админ\Desktop\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\Админ\Desktop\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe.config
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\Админ\Desktop\МДК 01.02\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
